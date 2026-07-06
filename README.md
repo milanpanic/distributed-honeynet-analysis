@@ -5,7 +5,6 @@ Supporting Python code for the paper:
 **Design and Statistical Evaluation of a Distributed Honeynet Model for Early Cyber Attack Detection**
 
 Author: Milan Panić  
-Affiliation: Pan-European University "APEIRON", Faculty of Information Technology, Banja Luka, Bosnia and Herzegovina
 
 ## Repository contents
 
