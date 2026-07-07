@@ -13,11 +13,6 @@ src/
   honeynet_log_parser.py          # Parses and normalizes Cowrie and DDoSPot logs
   paired_honeynet_analysis.py     # Performs paired analysis-time statistical comparison
 
-
-
-outputs/
-  .gitkeep                        # generated files should not be committed by default
-
 ```
 
 ## Installation
