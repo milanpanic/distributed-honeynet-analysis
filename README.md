@@ -17,7 +17,7 @@ data/
   paired_observation.csv # Scenario-level paired observations used in the manuscript table
 
 outputs/
-  .gitkeep                        # Placeholder; generated files should not be committed by default
+  .gitkeep                        # generated files should not be committed by default
 
 docs/
   GITHUB_UPLOAD_GUIDE.md          # Step-by-step GitHub upload instructions
