@@ -14,7 +14,7 @@ src/
   paired_honeynet_analysis.py     # Performs paired analysis-time statistical comparison
 
 data/
-  paired_observations_example.csv # Scenario-level paired observations used in the manuscript table
+  paired_observation.csv # Scenario-level paired observations used in the manuscript table
 
 outputs/
   .gitkeep                        # Placeholder; generated files should not be committed by default
