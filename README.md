@@ -13,15 +13,11 @@ src/
   honeynet_log_parser.py          # Parses and normalizes Cowrie and DDoSPot logs
   paired_honeynet_analysis.py     # Performs paired analysis-time statistical comparison
 
-data/
-  paired_observation.csv # Scenario-level paired observations used in the manuscript table
+
 
 outputs/
   .gitkeep                        # generated files should not be committed by default
 
-docs/
-  GITHUB_UPLOAD_GUIDE.md          # Step-by-step GitHub upload instructions
-  REVIEW_NOTES.md                 # Review notes and recommended improvements before submission
 ```
 
 ## Installation
