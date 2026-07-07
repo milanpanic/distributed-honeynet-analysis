@@ -19,5 +19,3 @@ p < 0.001
 95% CI for mean difference: [7.02, 10.38] minutes
 Effect size, Cohen's dz: 2.42
 
-Suggested manuscript sentence:
-The mean manual analysis time was 14.80 minutes, whereas parser-assisted normalized analysis required 6.10 minutes on average. The mean paired reduction was 8.70 minutes (SD = 3.59). A paired t-test confirmed a statistically significant reduction, t(19) = 10.84, p < 0.001.
